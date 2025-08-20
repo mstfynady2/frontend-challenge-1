@@ -1,0 +1,68 @@
+body{
+background-color: hsl(47, 88%, 63%);
+
+
+}
+.card{
+width: 350px;
+height: 520px;
+background-color: white;
+text-align: center;
+margin-top: 130px;
+border: solid 2px black ;
+border-radius: 5%;
+box-shadow: 10px 10px 10px black;
+}
+.img{
+width: 300px;
+height: 200px;
+margin: 20px;
+border-radius: 10px ;
+
+
+}
+.conteiner{
+display: flex;
+align-content: center;
+justify-content: center;
+
+
+}
+.butto{
+width: 100px;
+height: 35px;
+background-color: hsl(47, 88%, 63%);
+font-weight: bold;
+font-family: sans-serif;
+border-radius: 5px;
+border: 1px hsl(47, 88%, 63%);
+}
+.move{
+display: flex;
+text-align: left;
+margin-left: 25px;
+}
+p{
+text-align: left;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 25px;
+font-size: 15px;
+}
+h2{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: bold;
+}
+h4{
+text-align: left;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 25px;
+font-size: 15px;
+color: hsl(0, 0%, 42%);
+}
+.icon{
+width: 40px;
+}
+.name{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+color: hsl(0, 0%, 7%);
+}
